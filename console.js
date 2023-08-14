@@ -7,3 +7,5 @@ main () {
 //cant mergetest
 //new
 console.log("test")
+
+export default
