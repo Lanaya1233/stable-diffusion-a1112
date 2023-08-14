@@ -4,6 +4,6 @@ console.log("Hello World") // 2nd time!
 
 main () {
 }
-//cant merge
+//cant mergetest
 //new
 console.log("test")
