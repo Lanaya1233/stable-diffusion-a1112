@@ -2,10 +2,9 @@
 console.log("Hello World")
 console.log("Hello World") // 2nd time!
 
-main () {
-}
 //cant mergetest
 //new
 console.log("test")
 
-export default
+const main = 'test';
+export default main;
